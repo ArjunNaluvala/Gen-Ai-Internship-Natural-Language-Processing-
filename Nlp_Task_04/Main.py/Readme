@@ -1,4 +1,8 @@
-## ⚠️ If GitHub preview shows "Invalid Notebook", please open using the Colab link below.
+## ⚠️ Note
+
+## If the GitHub preview shows **"Invalid Notebook"** or does not display outputs, please open the notebook using the **Google Colab link below**.
+
+👉 All outputs, results, and visualizations (including the confusion matrix) can be viewed by running the notebook in Colab.
 
 ## https://colab.research.google.com/drive/1ac_5nTesyS1CJBD1R6mgkpI22bGgId8U
 
@@ -99,8 +103,12 @@ The project successfully demonstrates the effectiveness of BERT for sentiment an
 
 ## ⚠️ Important Note
 
-If GitHub preview shows **"Invalid Notebook"**, please open the notebook using the Colab link above. The issue is due to GitHub rendering limitations and not the code.
+The uploaded notebook does not contain saved outputs.
+If GitHub preview shows **"Invalid Notebook"** or does not display results, please open the notebook using the **Google Colab link below**.
 
+👉 Run all cells in Colab to view outputs, evaluation metrics, and visualizations.
+
+## https://colab.research.google.com/drive/1ac_5nTesyS1CJBD1R6mgkpI22bGgId8U
 
 ## 📌 Future Improvements
 

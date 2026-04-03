@@ -2,7 +2,7 @@
 
 ## If the GitHub preview shows **"Invalid Notebook"** or does not display outputs, please open the notebook using the **Google Colab link below**.
 
-👉 All outputs, results, and visualizations (including the confusion matrix) can be viewed by running the notebook in Colab.
+👉 All outputs, results, and visualizations (including the confusion matrix) can be viewed in the notebook in Colab.
 
 ## https://colab.research.google.com/drive/1ac_5nTesyS1CJBD1R6mgkpI22bGgId8U
 
@@ -96,19 +96,6 @@ Raw Data → Data Preprocessing → Data Splitting → Tokenization → Model Bu
 
 The project successfully demonstrates the effectiveness of BERT for sentiment analysis. Fine-tuning pre-trained transformer models significantly improves performance compared to traditional approaches. The experiments highlight the importance of model adaptation strategies in NLP tasks.
 
-## 🚀 Run Notebook in Google Colab
-
-[https://colab.research.google.com/drive/1ac_5nTesyS1CJBD1R6mgkpI22bGgId8U]
-
-
-## ⚠️ Important Note
-
-The uploaded notebook does not contain saved outputs.
-If GitHub preview shows **"Invalid Notebook"** or does not display results, please open the notebook using the **Google Colab link below**.
-
-👉 Run all cells in Colab to view outputs, evaluation metrics, and visualizations.
-
-## https://colab.research.google.com/drive/1ac_5nTesyS1CJBD1R6mgkpI22bGgId8U
 
 ## 📌 Future Improvements
 
@@ -120,8 +107,3 @@ If GitHub preview shows **"Invalid Notebook"** or does not display results, plea
 ## ⭐ Acknowledgment
 
 This project was completed as part of an NLP assignment to gain hands-on experience with transformer models and real-world datasets.
-
-
-##  Author
-
-**Arjun Naluvala**

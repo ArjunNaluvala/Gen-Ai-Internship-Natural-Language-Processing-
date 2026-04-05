@@ -27,10 +27,12 @@ Perform inference on custom sentences
 🛠️ Technologies Used
 
 Python
+
 Hugging Face Transformers
+
 PyTorch
+
 SeqEval (Evaluation Metric)
-NumPy
 
 📂 Dataset Used
 
